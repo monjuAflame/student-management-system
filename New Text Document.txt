@@ -1,0 +1,21 @@
+
+
+
+1 create table roles
+2 create table users
+3 create table students
+4 create table academics
+1 create table programs
+1 create table lavels
+1 create table shifts
+1 create table times
+1 create table batches
+1 create table groups
+1 create table classes
+1 create table statuses
+1 create table feetypes
+1 create table fees
+1 create table studentfees
+1 create table transactions
+1 create table receipts
+1 create table receiptsdetail
